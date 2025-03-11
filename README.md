@@ -30,7 +30,7 @@ Once obtained, these bytes **do not change**, so you only need to set them once 
 ## 🚀 Installation & Setup
 1. **Download the script**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/aaxconvert.git
+   git clone https://github.com/corbrandt/aaxconvert.git
    cd aaxconvert
    ```
 2. **Edit the script to add your Activation Bytes**
